@@ -8,9 +8,9 @@ The order of these sections is very important, but has not been finalized yet, s
 
 ## Development and Packaging
 
-| Obtaining Package Source | Package rebranding | Build Rocky RPMs | Package Signing | 
-| --- | --- | --- | 
-| | [Download SRPMs](https://wiki.rockylinux.org/en/team/development/build_steps) |
+| Obtaining Package Source | Package rebranding | Build Rocky RPMs | Package Signing |
+| --- | --- | --- | --- |
+| [Download SRPMs](https://wiki.rockylinux.org/en/team/development/build_steps) |
 
 ## Security
 
